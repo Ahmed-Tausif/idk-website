@@ -1,0 +1,61 @@
+.heading{
+   justify-content: space-between;
+   margin: 0px 150px;
+    display: flex;
+}
+.resume-btn{
+    padding: 17px 24px;
+    border-radius: 8px;
+    opacity: 80%;
+    color: #0D1321;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 600px;
+    background-color: white;
+    width: 244px;
+    height: 57px;
+    margin-top: 38px;
+    margin-bottom:36px;
+}
+.name{
+    margin-top: 50px;
+    margin-bottom: 48px;
+    font-size: 28px;
+    font-weight: bolder;
+}
+.nani{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(../assets/Hero-bg.png);
+}
+.title-first{
+    font-size: 64px;
+    font-weight: bolder;
+    width: 998px;
+    height: 136px;
+    line-height: 68px;
+    text-align:  center;
+    text-align: top;
+}
+.para-first{
+line-height: 26px;
+width: 852px;
+height: 52px;
+opacity: 70%;
+font-size: 24px;
+text-align: center;
+}
+.contact-me{
+    background-color: #040508;
+    padding: 21px 24px;
+    color: white;
+    border-radius: 8px;
+    gap: 10px;
+    width: 244px;
+    height: 65px;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700;
+}
